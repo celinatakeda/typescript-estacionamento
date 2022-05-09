@@ -2,24 +2,23 @@
 
 Neste projeto o intuito é aprender a utilizar o Typescript.
 
-## Iniciando o projeto em typescript
+### Iniciando o projeto em typescript
 
 npx -p typescript tsc --init
 
-## Transpilar o código typescript para javascript
+### Transpilar o código typescript para javascript
 
 npx -p typescript tsc
 
 ## Sobre o projeto
-Cadastra veículos pelo navegador
+Sistema que cadastra veículos 
 
-Pegar os dados e manipulá-los como:
- 
+Pega os dados e manipulá-los como: 
 	Adicionar
 	Ler  
 	Salvar
 	Renderizar 
 	Remover
 
-Além disso, também calcula o tempo de permanência do veículo no pátio. 
+Também calcula o tempo de permanência do veículo no pátio. 
 
