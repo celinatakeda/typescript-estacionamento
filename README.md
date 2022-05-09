@@ -11,14 +11,14 @@ npx -p typescript tsc --init
 npx -p typescript tsc
 
 ## Sobre o projeto
-Sistema que cadastra veículos 
+Sistema de cadastro de veículos 
 
-Pega os dados e manipulá-los como: 
-	Adicionar
-	Ler  
-	Salvar
-	Renderizar 
-	Remover
-
-Também calcula o tempo de permanência do veículo no pátio. 
+Funções para manipular os dados 
+ 
+	Adicionar()
+	Ler() 
+	Salvar()
+	Render() - renderizar os veículos.
+	Remover()
+	calTempo() calcula o tempo de permanência do veículo no pátio. 
 
