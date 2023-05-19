@@ -3,13 +3,13 @@
 Neste projeto o intuito é aprender a utilizar o Typescript.
 
 #### Iniciando o projeto em typescript
-
+```
 npx -p typescript tsc --init
-
+```
 #### Transpilar o código typescript para javascript
-
+```
 npx -p typescript tsc
-
+```
 ## Sobre o projeto
 Sistema de cadastro de veículos 
 
